@@ -1,0 +1,2 @@
+# connectgit
+setting up git
